@@ -200,9 +200,17 @@ class Main {
         4. 1:1 30 minute call with me/ 500 Amazon gift voucher
         5. 1:1 30 minute call with me/ 500 Amazon gift voucher
         */
+
+        /*
+         String str = "sdVFweQAmC";
         
-        
-        
+
+        for(int i =0; i<str.length();i++){
+        	if(str.charAt(i)>64&&str.charAt(i)<97){
+        		System.out.println(str.charAt(i));
+        	}
+        }
+        */
         
         
         
